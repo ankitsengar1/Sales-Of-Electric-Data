@@ -11,8 +11,14 @@ Libraries used include Pandas, Matplotlib, Seaborn, and NumPy. This comprehensiv
 # 📊 Key Features
 
 Sales Trend Analysis: Identifies key trends in sales performance.
+
+
 Product Performance: Highlights best-selling products and top revenue-generating categories.
+
+
 Customer Segmentation: Segments customers to understand preferences and top buyers.
+
+
 Visualizations: Includes bar charts, line graphs, and more to represent findings.
 
 # 🛠️ Tools and Libraries

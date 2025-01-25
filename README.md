@@ -2,7 +2,10 @@
 
 # 📜 Overview
 
-The project involves analyzing sales data using Python for data cleaning, exploration, and visualization. It highlights key trends such as best-selling products, revenue-generating categories, and customer segmentation. Visualizations like bar charts and line graphs are created to represent insights, aiding in understanding sales performance and customer preferences. Libraries used include Pandas, Matplotlib, Seaborn, and NumPy. This comprehensive analysis offers valuable insights for decision-making and performance evaluation.
+The project involves analyzing sales data using Python for data cleaning, exploration, and visualization.
+It highlights key trends such as best-selling products, revenue-generating categories, and customer segmentation. Visualizations 
+like bar charts and line graphs are created to represent insights, aiding in understanding sales performance and customer preferences. 
+Libraries used include Pandas, Matplotlib, Seaborn, and NumPy. This comprehensive analysis offers valuable insights for decision-making and performance evaluation.
 
 
 # 📊 Key Features
@@ -30,7 +33,7 @@ Follow these steps to run the application on your local machine:
 
 1. Clone the Repository
 git clone https://github.com/your-username/Sales-Of-Electric-Data.git
-cd black-money-transactions-analysis
+cd  Sales Analytics Dashboard
 online link in streamlit cloud:
 
 https://eledashboard.streamlit.app/
